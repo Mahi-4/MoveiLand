@@ -1,5 +1,5 @@
 # A Simple React App To Search Through Movies....
-<hr/>
+
 MovieLand, Where You can search any movie and Upto 10 Matching result will shown....
 <hr/>
 <ul>
